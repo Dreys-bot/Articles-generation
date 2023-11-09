@@ -46,7 +46,7 @@ source ./venv/bin/activate  # sh, bash, or zsh
 
 ### Explanation about Transformer Model used and how to create GPT model from Strach
 
-You can find it in ![Documentation]()
+You can find it in [Documentation](https://github.com/Dreys-bot/Articles-generation/tree/main/Doc)
 
 ### Execution
 To run this Bot, first run the ```fine-tuning.ipynb``` file to train the model. This will generate a folder named ```new-articles_GPT```<br>
