@@ -44,6 +44,8 @@ source ./venv/bin/activate  # sh, bash, or zsh
 
 5. To access your bot on localhost, go to ```http://127.0.0.1:5000/```
 
+6. The other file like **gpt-v1.ipynb, data_extract.py, chatbot.py, ..** are for created GPT model from strach using **Transformers architecture**
+
 ### Explanation about Transformer Model used and how to create GPT model from Strach
 
 You can find it in [Documentation](https://github.com/Dreys-bot/Articles-generation/tree/main/Doc)
